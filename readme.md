@@ -1,4 +1,4 @@
-> Typescript template application.
+> Typescript Project Template
 
 ## Included
 - [x] Typescript Dependencies
